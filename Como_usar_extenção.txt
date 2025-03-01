@@ -1,0 +1,9 @@
+Vá para a pasta dist e adicione os arquivos necessários (manifest.json, icon.png).
+
+Carregue a extensão no navegador:
+
+Acesse chrome://extensions/.
+
+Ative o "Modo desenvolvedor".
+
+Clique em "Carregar sem compactação" e selecione a pasta dist.
